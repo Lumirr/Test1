@@ -9,3 +9,4 @@
 8.https://yun.baidu.com/share/link?shareid=3991260417&uk=2634552179 自然语言处理
 综论中文版
 9.如何用Python写一个每分每时每天的定时程序:https://www.jianshu.com/p/ab8d9e576ac4
+10.spark;集群；nltk
