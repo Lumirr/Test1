@@ -1,5 +1,6 @@
 ### 1.database深入下。     
-### 2.隐马尔科夫模型（HMM） [https://www.cnblogs.com/skyme/p/4651331.html] : https://www.cnblogs.com/skyme/p/4651331.html    
+### 2.[隐马尔科夫模型（HMM）]
+ [隐马尔科夫模型（HMM）]: https://www.cnblogs.com/skyme/p/4651331.html    
 ### 3.jieba简介 [https://blog.csdn.net/reims2046/article/details/72869337] 
  [https://blog.csdn.net/reims2046/article/details/72869337]: https://blog.csdn.net/reims2046/article/details/72869337           
 ### 4.markdown:https://www.appinn.com/markdown/#link      
