@@ -6,4 +6,6 @@ https://blog.csdn.net/mcuhome/article/details/80659702
 5.phantomJS+selenium(过时）, ajax,scrapy
 6.使用python为爬虫获取免费代理iphttps://blog.csdn.net/qq2667126427/article/details/79428980
 7.mql5手册；走一个demo上手    
-8.动态代理ip；滑动老是失败解决策略；cookie了解
+8.动态代理ip；滑动老是失败解决策略；cookie了解     
+9.python开源代理池https://www.cnblogs.com/qiyeboy/p/5693128.html
+
