@@ -10,11 +10,9 @@ update:update yici_conf.brand_category_detail set category_middle_id=xxx, catego
 delete去重:delete from yici_conf.brand_category_detail where id not in (select min(id) from yici_conf.brand_category_detail group by cat_by_ec, brand_id);
 6.select * into yici_conf.brand_category_detail_tmp from yici_conf.brand_category_detail拷贝数据
 7.时间戳转一般时间显示格式    
----
-　timeStamp = 1381419600
-  timeArray = time.localtime(timeStamp)
-  otherStyleTime = time.strftime("%Y--%m--%d %H:%M:%S", timeArray)
-   print(otherStyleTime)
----
+      timeStamp = 1381419600
+      timeArray = time.localtime(timeStamp)
+      otherStyleTime = time.strftime("%Y--%m--%d %H:%M:%S", timeArray)
+      print(otherStyleTime)
 8.postgresql数据库操作    
   select distinct sentiment_txt from data.dialogue_data;
