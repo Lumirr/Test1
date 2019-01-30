@@ -1,3 +1,4 @@
+```
 1.PostgreSQL数据库使用。
 2.
   1.先用python结合selenium生成关键词相关的html文件
@@ -11,3 +12,4 @@
   __xxx是私有的，python内部做了重命名，不能被覆盖。
   _xxx表明此方法不是api，也是内部使用的。
   https://www.cnblogs.com/coder2012/p/4423356.html
+```
